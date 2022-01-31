@@ -1,3 +1,7 @@
+html {
+  scroll-behavior: smooth;
+}
+
 .highlight-project img {
   max-height: 85%;
   max-width: 85%;
